@@ -1,0 +1,18 @@
+{
+  "entries": [
+    "components/choicesjs-stencil/choicesjs-stencil.js"
+  ],
+  "compiler": {
+    "name": "@stencil/core",
+    "version": "1.5.4",
+    "typescriptVersion": "3.6.3"
+  },
+  "collections": [],
+  "bundles": [
+    {
+      "components": [
+        "choicesjs-stencil"
+      ]
+    }
+  ]
+}
